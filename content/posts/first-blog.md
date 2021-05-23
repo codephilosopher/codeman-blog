@@ -7,8 +7,8 @@ draft: false
 author: codephilosopher
 authorLink: https://github.com/codephilosopher/codeman-blog
 resources:
-  name: sdsdfsdf
-  src: sdfsdfsdfsdf
+  name: FB_IMG_1615946054448
+  src: FB_IMG_1615946054448.jpg
 tags:
   - shortcodes
 categories:
@@ -19,7 +19,11 @@ toc:
 description: sample post for test
 comment: true
 ---
-``
+> `sdfsdfsdfsdfsdfsdfsdfsdfsdfsdf`
+
+### `ghfghfghfghfghfghfg`
+
+![dfgdfgdfg](/images/uploads/fb_img_1615946054448.jpg "dfgdfgdfg")
 
 ```ruby
 # Operators are really method invocations.
