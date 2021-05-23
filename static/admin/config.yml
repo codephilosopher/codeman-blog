@@ -1,0 +1,32 @@
+backend:
+  name: git-gateway
+  branch: master
+
+  collections:
+    - name: 'post'
+      label: 'Post'
+      folder: 'content/posts'
+      fields: 
+        - {label: "Weight", name: "weight", widget: "number", default: 1}
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Date", name: "date", widget: "datetime"}
+        - {label: "Lastmod", name: "lastmod", widget: "datetime"}
+        - {label: "Draft", name: "draft", widget: "boolean", default: true}
+        - {label: "Author", name: "author", widget: "string", default: "codephilosopher"}
+        - {label: "AuthorLink", name: "authorLink", widget: "string", default: "https://github.com/codephilosopher/codeman-blog"}
+        - label: "Resources"
+           name: "resources"
+           widget: "object"
+           collapsed: true
+           fields:
+            - {label: "Name", name: "name", widget: "string"}
+            - {label: "Src", name: "src", widget: "string"}
+        - {label: "Tags", name: "tags", widget: "list"}
+        - {label: "Categories", name: "categories", widget: "list"}
+        - {label: "Lightgallery", name: "lightgallery", widget: "boolean", default: true}
+        - label: "Toc"
+           name: "toc"
+           widget: "object"
+           collapsed: true
+           fields:
+            - {label: "Auto", name: "auto", widget: "boolean", default: false}          
