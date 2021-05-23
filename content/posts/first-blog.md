@@ -13,7 +13,7 @@ tags:
   - shortcodes
 categories:
   - documentation
-lightgallery: true
+lightgallery: false
 toc:
   auto: true
 description: sample post for test
