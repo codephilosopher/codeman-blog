@@ -17,7 +17,7 @@ lightgallery: true
 toc:
   auto: true
 description: sample post for test
-comment: true
+comment: false
 ---
 ``
 
