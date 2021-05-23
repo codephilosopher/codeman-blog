@@ -13,11 +13,11 @@ tags:
   - shortcodes
 categories:
   - documentation
-lightgallery: false
+lightgallery: true
 toc:
-  auto: true
+  auto: false
 description: sample post for test
-comment: false
+comment: true
 ---
 ``
 
