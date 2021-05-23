@@ -29,4 +29,5 @@ backend:
            widget: "object"
            collapsed: true
            fields:
-            - {label: "Auto", name: "auto", widget: "boolean", default: false}          
+            - {label: "Auto", name: "auto", widget: "boolean", default: false}
+        - {label: "Body", name: "body", widget: "text"}              
