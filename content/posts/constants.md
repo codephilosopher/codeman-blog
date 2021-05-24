@@ -5,7 +5,7 @@ date: 2021-05-24T06:15:02.696Z
 lastmod: 2021-05-24T06:15:02.775Z
 draft: false
 author: codephilosopher
-authorLink: https:/github.com/codephilosopher/codeman-blog
+authorLink: "#"
 tags:
   - golang
   - constants
