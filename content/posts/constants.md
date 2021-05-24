@@ -8,6 +8,7 @@ author: codephilosopher
 authorLink: https:/github.com/codephilosopher/codeman-blog
 tags:
   - golang
+  - constants
 categories:
   - Markdown
 lightgallery: true
