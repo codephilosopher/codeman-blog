@@ -43,5 +43,4 @@ Literals are constants without a name. To declare a constant and give it a name,
 ```go
 const myFavLanguage = "Python"
 const sunRisesInTheEast = true
-
 ```
