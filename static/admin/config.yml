@@ -7,6 +7,7 @@ collections:
   - name: 'post'
     label: 'Post'
     folder: 'content/posts'
+    create: true
     fields: 
       - {label: "Weight", name: "weight", widget: "number", default: 1}
       - {label: "Title", name: "title", widget: "string"}
