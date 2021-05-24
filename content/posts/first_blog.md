@@ -6,7 +6,7 @@ lastmod: 2021-05-24T03:36:47.497Z
 draft: false
 author: codephilosopher
 authorLink: https://github.com/codephilosopher/codeman-blog
-comment: false
+comment: true
 resources:
   name: '""'
   src: '""'
@@ -14,7 +14,7 @@ tags:
   - html
 categories:
   - Documents
-lightgallery: false
+lightgallery: true
 toc:
   auto: false
 ---
