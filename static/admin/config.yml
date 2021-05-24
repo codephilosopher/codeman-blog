@@ -12,24 +12,24 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Lastmod", name: "lastmod", widget: "datetime"}
-      - {label: "Draft", name: "draft", widget: "boolean", default: true}
-      - {label: "Author", name: "author", widget: "string", default:"codephilosopher"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false, required: false}
+      - {label: "Author", name: "author", widget: "string", default: "codephilosopher"}
       - {label: "AuthorLink", name: "authorLink", widget: "string", default: "https:/github.com/codephilosopher/codeman-blog"}
-      - {label: "Comment", name: "comment", widget: "boolean", default: true}
+      - {label: "Comment", name: "comment", widget: "boolean", default: true, required: false}
       - label: "Resources"
         name: "resources"
         widget: "object"
         collapsed: true
         fields:
-          - {label: "Name", name: "name", widget: "string"}
-          - {label: "Src", name: "src", widget: "string"}
+          - {label: "Name", name: "name", widget: "string", required: false}
+          - {label: "Src", name: "src", widget: "string", required: false}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Categories", name: "categories", widget: "list"}
-      - {label: "Lightgallery", name: "lightgallery", widget: "boolean", default:true}
+      - {label: "Lightgallery", name: "lightgallery", widget: "boolean", default: true, required: false}
       - label: "Toc"
         name: "toc"
         widget: "object"
         collapsed: true
         fields:
-         - {label: "Auto", name: "auto", widget: "boolean", default: false}
+         - {label: "Auto", name: "auto", widget: "boolean", default: false, required: false}
       - {label: "Body", name: "body", widget: "markdown"}              

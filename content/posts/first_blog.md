@@ -6,10 +6,9 @@ lastmod: 2021-05-24T03:36:47.497Z
 draft: false
 author: codephilosopher
 authorLink: https://github.com/codephilosopher/codeman-blog
-comment: true
 resources:
-  name: '""'
-  src: '""'
+  name: ''
+  src: ''
 tags:
   - html
 categories:
