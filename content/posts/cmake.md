@@ -9,7 +9,7 @@ authorLink: https:/github.com/codephilosopher/codeman-blog
 tags:
   - cmake
 categories:
-  - cmake
+  - programming
 lightgallery: true
 toc:
   auto: false
