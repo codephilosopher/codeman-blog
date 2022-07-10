@@ -22,7 +22,7 @@ It is the custom to start a program by printing "Hello World!" 😊
 
 `func main() {`
 
-\    ` fmt.Println("Hello World!")`
+   ` fmt.Println("Hello World!")`
 
 `}` 
 
