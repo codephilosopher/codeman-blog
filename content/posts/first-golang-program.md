@@ -22,11 +22,11 @@ It is the custom to start a program by printing "Hello World!" 😊
 
 `func main() {`
 
-`         fmt.Println("Hello World!")`
+`fmt.Println("Hello World!")`
 
-`} ` 
+`}` 
 
-* Every Go program starts with a package name, This is a main program with drives other programs, so this has the main package. 
-* ***func main***   is the entry point to go program for operating system. from this main function all other programs are called and executed.
-* functions have opening and closing curly braces. Inside the main function, we write all other code. 
-* ***fmt*** is a package name like main, inside package name directory,  a group of similar related functions are grouped under a package name. Here ***Println*** function is put under ***fmt*** package. ***fmt.Println()***  will print to the standard out streams like terminal.
+* Every Go program starts with a package name, This is a main program which drives other programs, so this has the main package name. 
+* ***func main***   is the entry point to go program for operating system. From this main function, all other programs are called and executed.
+* Functions have opening and closing curly braces. Inside the main function, we write all other code. 
+* ***fmt*** is a package name like main,  a group of similar related functions are grouped under a package name directory. Here ***Println*** function is put under ***fmt*** package. ***fmt.Println()***  will print to the standard out streams like terminal.
