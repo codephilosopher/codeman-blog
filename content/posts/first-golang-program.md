@@ -33,6 +33,6 @@ func main() {
 * ***import "fmt"*** is the package import statement in Go, We can import multiple package import declaration in side a opening and closing parenthesis.
 * To run a go program, we need to type and enter these line of code in your terminal `go run source_file.go` 
 
-you can get the source code from here [hello world program](https://raw.githubusercontent.com/codephilosopher/golang_playlist_youtube/master/hello.go)   
+you can get the source code from here [hello world program](https://raw.githubusercontent.com/codephilosopher/golang_playlist_youtube/master/first%20program%20hello%20world/hello.go)   
 
 Also you can watch video explanation of this from codephilosopher's youtube channel. [hello world](https://www.youtube.com/watch?v=MzwDk2bOybo)
