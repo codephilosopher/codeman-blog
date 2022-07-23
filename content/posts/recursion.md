@@ -14,7 +14,7 @@ lightgallery: true
 toc:
   auto: true
 ---
-# **[Recursion](https://codephilosopher.netlify.app/admin/#/collections/post/entries/recursion)**
+# **Recursion**
 
 > * Definition: A function calling itself
 > * There must be a base condition for exit the recursion else this will become a infinite recursion.
