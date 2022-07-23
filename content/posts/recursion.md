@@ -7,15 +7,14 @@ draft: false
 author: codephilosopher
 authorLink: https:/github.com/codephilosopher/codeman-blog
 tags:
-  - '["recursion"'
-  - '"go"]'
+  - recursion
 categories:
   - Algorithms
 lightgallery: true
 toc:
   auto: true
 ---
-# **Recursion**
+# **[Recursion](https://codephilosopher.netlify.app/admin/#/collections/post/entries/recursion)**
 
 > * Definition: A function calling itself
 > * There must be a base condition for exit the recursion else this will become a infinite recursion.
