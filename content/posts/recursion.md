@@ -7,7 +7,8 @@ draft: false
 author: codephilosopher
 authorLink: https:/github.com/codephilosopher/codeman-blog
 tags:
-  - recursion-go
+  - '["recursion"'
+  - '"go"]'
 categories:
   - Algorithms
 lightgallery: true
