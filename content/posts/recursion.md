@@ -22,7 +22,7 @@ Repeatedly calling a function from within itself may cause the call stack to h
 
 \-Wiki
 
-consider an example:
+### consider an code example:
 
 ```go
 import "fmt"
