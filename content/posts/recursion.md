@@ -12,7 +12,7 @@ categories:
   - algorithms
 lightgallery: true
 toc:
-  auto: false
+  auto: true
 ---
 **I﻿ntro**
 
