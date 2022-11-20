@@ -46,3 +46,15 @@ Every recursive program should contain a precondition to exit from the program, 
 There are side effects for using Recursion, every function uses stack memory to compute, Internally recursion uses stack memory on each recursive call. The stack memory created according to the growth of n, so the space complexity of a recursive function is order of n **O(n).** 
 
 ![call stack](/images/uploads/screenshot-from-2022-11-20-18-03-16.png "recursion call stack")
+
+
+
+### s﻿tackoverflow
+
+```
+runtime: goroutine stack exceeds 1000000000-byte limit
+runtime: sp=0xc020160370 stack=[0xc020160000, 0xc040160000]
+fatal error: stack overflow
+```
+
+Another downside of using recursion is not proper using of precondition, this will lead to stack overflow. This happens because of the indefinite recursive function call.
