@@ -9,7 +9,7 @@ authorLink: https://codephilosopher.netlify.app/about/
 tags:
   - go
 categories:
-  - algorithm
+  - algorithms
 lightgallery: true
 toc:
   auto: true
