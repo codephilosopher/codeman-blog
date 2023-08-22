@@ -6,6 +6,10 @@ lastmod: 2023-08-22T03:39:45.375Z
 draft: false
 author: codephilosopher
 authorLink: https:/github.com/codephilosopher/codeman-blog
+tags:
+  - go
+categories:
+  - programming
 lightgallery: true
 toc:
   auto: true
