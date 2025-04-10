@@ -36,7 +36,7 @@ Find two distinct integers that can pair up to form target sum.  Let us assume t
 
 We can use two loops which will compare each element with other elements that gives the sum. This will take an order of O(n^2).
 
-> **O﻿ptimal Approach O(N) :**
+### **O﻿ptimal Approach O(N) :**
 
 I﻿n this approach we will avoid one loop, instead of comparing the second value with a loop, we will use a map to lookup the subtracted value from the total sum. Map will take only a constant time to lookup the value. So the total running time of this approach will be order of O(N).
 
@@ -70,5 +70,4 @@ func pairSum(a []int, s int) Pair {
 	}
 	return Pair{-1, -1}
 }
-
 ```
